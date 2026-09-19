@@ -6510,6 +6510,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 43.202.70.0/23,AMAZON,ap-northeast-2,,AWS,4
 43.202.72.0/22,AMAZON,ap-northeast-2,,AWS,4
 54.116.70.0/23,AMAZON,ap-northeast-2,,AWS,4
+54.117.38.0/23,AMAZON,ap-northeast-2,,AWS,4
 54.180.184.0/23,AMAZON,ap-northeast-2,,AWS,4
 13.208.170.0/23,AMAZON,ap-northeast-3,,AWS,4
 15.152.24.192/26,AMAZON,ap-northeast-3,,AWS,4
