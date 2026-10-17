@@ -2320,6 +2320,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.255.57.182/32,AMAZON,us-west-2,,AWS,4
 104.255.59.133/32,AMAZON,ap-southeast-4,,AWS,4
 173.83.223.0/24,AMAZON,eu-south-2,,AWS,4
+191.166.0.0/16,AMAZON,mx-central-1,,AWS,4
 3.4.1.0/24,AMAZON,us-east-1,,AWS,4
 3.4.12.29/32,AMAZON,ap-northeast-1,,AWS,4
 13.56.0.0/16,AMAZON,us-west-1,,AWS,4
@@ -4771,7 +4772,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 69.107.7.96/29,AMAZON,us-east-1,,AWS,4
 76.223.170.0/28,AMAZON,ca-west-1,,AWS,4
 150.222.102.0/24,AMAZON,us-west-2,,AWS,4
-1.178.86.0/24,AMAZON,ap-southeast-3,,AWS,4
 1.178.172.0/23,AMAZON,GLOBAL,,AWS,4
 3.2.106.0/24,AMAZON,us-west-2,,AWS,4
 3.4.12.2/32,AMAZON,ap-southeast-2,,AWS,4
@@ -6483,10 +6483,13 @@ prefix,service,region,networkFeatures,platform,ip_version
 52.81.167.192/26,AMAZON,cn-north-1,,AWS,4
 52.81.232.0/26,AMAZON,cn-north-1,,AWS,4
 71.131.196.128/26,AMAZON,cn-north-1,,AWS,4
+71.137.18.0/23,AMAZON,cn-north-1,,AWS,4
 161.189.66.128/26,AMAZON,cn-northwest-1,,AWS,4
 161.189.66.192/26,AMAZON,cn-northwest-1,,AWS,4
 43.192.156.0/23,AMAZON,cn-northwest-1,,AWS,4
 43.192.160.0/22,AMAZON,cn-northwest-1,,AWS,4
+43.192.198.0/23,AMAZON,cn-northwest-1,,AWS,4
+43.192.200.0/23,AMAZON,cn-northwest-1,,AWS,4
 43.192.202.0/24,AMAZON,cn-northwest-1,,AWS,4
 52.82.92.0/23,AMAZON,cn-northwest-1,,AWS,4
 52.83.26.0/26,AMAZON,cn-northwest-1,,AWS,4
@@ -6903,6 +6906,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 51.168.146.0/24,AMAZON,me-west-1,,AWS,4
 51.168.170.0/23,AMAZON,me-west-1,,AWS,4
 51.168.172.0/23,AMAZON,me-west-1,,AWS,4
+51.168.206.0/23,AMAZON,me-west-1,,AWS,4
 78.12.58.0/24,AMAZON,mx-central-1,,AWS,4
 78.12.59.0/24,AMAZON,mx-central-1,,AWS,4
 78.12.60.0/24,AMAZON,mx-central-1,,AWS,4
@@ -7078,6 +7082,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 44.248.111.192/26,AMAZON,us-west-2,,AWS,4
 44.254.112.0/23,AMAZON,us-west-2,,AWS,4
 44.254.14.0/23,AMAZON,us-west-2,,AWS,4
+44.254.6.0/23,AMAZON,us-west-2,,AWS,4
 99.77.244.0/24,CHIME_VOICECONNECTOR,ap-northeast-1,,AWS,4
 99.77.238.0/24,CHIME_VOICECONNECTOR,ap-south-1,,AWS,4
 99.77.240.0/24,CHIME_VOICECONNECTOR,ap-southeast-1,,AWS,4
@@ -9109,7 +9114,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 35.55.22.0/24,EC2,eu-west-3,,AWS,4
 51.74.128.0/18,EC2,eusc-de-east-1,,AWS,4
 54.194.0.0/15,EC2,eu-west-1,,AWS,4
-1.178.86.0/24,EC2,ap-southeast-3,,AWS,4
 3.2.106.0/24,EC2,us-west-2,,AWS,4
 15.129.80.0/22,EC2,eu-west-1,,AWS,4
 35.50.232.0/24,EC2,ap-south-1,,AWS,4
