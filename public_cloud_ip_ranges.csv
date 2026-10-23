@@ -1670,6 +1670,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 54.239.98.0/24,AMAZON,us-east-1,,AWS,4
 64.66.140.0/24,AMAZON,ap-northeast-1,,AWS,4
 69.107.9.240/29,AMAZON,ap-northeast-1,,AWS,4
+69.107.13.120/29,AMAZON,af-south-1,,AWS,4
 99.77.238.0/24,AMAZON,ap-south-1,,AWS,4
 99.82.8.0/21,AMAZON,GLOBAL,,AWS,4
 104.153.114.0/24,AMAZON,eu-central-1,,AWS,4
@@ -1815,6 +1816,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 16.12.96.0/21,AMAZON,us-west-2,,AWS,4
 23.228.219.0/24,AMAZON,us-west-1,,AWS,4
 23.228.244.0/24,AMAZON,GLOBAL,,AWS,4
+35.34.106.0/24,AMAZON,af-south-1,,AWS,4
 35.55.30.0/24,AMAZON,us-east-1,,AWS,4
 52.30.0.0/15,AMAZON,eu-west-1,,AWS,4
 52.93.201.80/28,AMAZON,us-west-1,,AWS,4
@@ -4090,6 +4092,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 150.222.144.65/32,AMAZON,eu-central-1,,AWS,4
 150.222.234.136/31,AMAZON,us-west-1,,AWS,4
 1.178.91.0/24,AMAZON,ap-northeast-2,,AWS,4
+3.33.1.0/24,AMAZON,eu-west-1,,AWS,4
 15.177.64.0/23,AMAZON,us-east-1,,AWS,4
 15.193.9.0/24,AMAZON,ap-northeast-2,,AWS,4
 15.230.39.20/31,AMAZON,us-east-2,,AWS,4
@@ -4209,6 +4212,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 52.46.88.0/22,AMAZON,eu-west-3,,AWS,4
 52.93.90.198/32,AMAZON,us-east-1,,AWS,4
 69.107.12.216/29,AMAZON,eu-west-3,,AWS,4
+69.107.13.112/29,AMAZON,af-south-1,,AWS,4
 96.0.72.0/21,AMAZON,ap-southeast-2,,AWS,4
 96.0.112.0/21,AMAZON,ap-southeast-1,,AWS,4
 3.3.6.0/23,AMAZON,GLOBAL,,AWS,4
@@ -9962,6 +9966,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 13.248.113.0/24,GLOBALACCELERATOR,eu-west-1,,AWS,4
 13.248.110.0/24,GLOBALACCELERATOR,ap-southeast-3,,AWS,4
 15.197.32.0/23,GLOBALACCELERATOR,GLOBAL,,AWS,4
+35.34.106.0/24,GLOBALACCELERATOR,af-south-1,,AWS,4
 15.197.0.0/23,GLOBALACCELERATOR,GLOBAL,,AWS,4
 3.2.53.0/24,GLOBALACCELERATOR,eu-central-1,,AWS,4
 99.83.102.0/24,GLOBALACCELERATOR,ap-southeast-1,,AWS,4
@@ -129089,6 +129094,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:dabb:c800::/40,AMAZON,ap-east-2,,AWS,6
 2406:dae7:7000::/40,AMAZON,me-central-1,,AWS,6
 2406:daf4:6000::/40,AMAZON,ap-northeast-3,,AWS,6
+2600:1f01:4950::/47,AMAZON,eu-west-1,,AWS,6
 2600:1f12:8000::/36,AMAZON,us-west-2,,AWS,6
 2600:1ffd:803f::/48,AMAZON,us-east-1,,AWS,6
 2600:f0f0:0:200::/62,AMAZON,us-east-1,,AWS,6
@@ -129562,6 +129568,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a05:d07e:2000::/40,AMAZON,eu-west-3,,AWS,6
 2406:da70:1000::/40,AMAZON,af-south-1,,AWS,6
 2406:daff:e000::/40,AMAZON,ap-east-1,,AWS,6
+2600:1f01:4816::/47,AMAZON,af-south-1,,AWS,6
 2600:1f01:493a::/47,AMAZON,eu-west-2,,AWS,6
 2600:1f32:e200::/40,AMAZON,ca-central-1,,AWS,6
 2600:f0f0:e13::/48,AMAZON,us-east-2,,AWS,6
@@ -129786,6 +129793,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:1111::/48,AMAZON,eu-central-1,,AWS,6
 2606:7b40:10ff:c0::/59,AMAZON,ap-northeast-1,,AWS,6
 2606:7b40:1a4f:4320::/60,AMAZON,us-east-2,,AWS,6
+2620:107:4000:8b00::/56,AMAZON,us-east-1,,AWS,6
 2406:da70:2000::/40,AMAZON,ap-northeast-2,,AWS,6
 2406:daeb:f000::/40,AMAZON,ap-southeast-4,,AWS,6
 2406:daf9:2800::/40,AMAZON,ap-southeast-6,,AWS,6
@@ -129819,6 +129827,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1ff6:1000::/40,AMAZON,ca-central-1,,AWS,6
 2600:f0f0:c136::/48,AMAZON,eu-west-1,,AWS,6
 2600:f0f1:10::/47,AMAZON,us-east-1,,AWS,6
+2600:f0f3:f010:2500::/56,AMAZON,us-gov-west-1,,AWS,6
 2606:f40:4900::/48,AMAZON,us-west-2,,AWS,6
 2a05:d072:1000::/40,AMAZON,eu-south-2,,AWS,6
 2a05:d073:a000::/40,AMAZON,eu-south-1,,AWS,6
@@ -133456,6 +133465,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1ff6:1000::/40,EC2,ca-central-1,,AWS,6
 2600:f0f0:c136::/48,EC2,eu-west-1,,AWS,6
 2600:f0f1:10::/47,EC2,us-east-1,,AWS,6
+2600:f0f3:f010:2500::/56,EC2,us-gov-west-1,,AWS,6
 2606:f40:4900::/48,EC2,us-west-2,,AWS,6
 2a05:d072:1000::/40,EC2,eu-south-2,,AWS,6
 2a05:d073:a000::/40,EC2,eu-south-1,,AWS,6
@@ -133938,6 +133948,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f01:480e::/47,GLOBALACCELERATOR,eu-west-2,,AWS,6
 2600:1f01:4840::/47,GLOBALACCELERATOR,sa-east-1,,AWS,6
 2600:1f01:4830::/47,GLOBALACCELERATOR,eu-central-1,,AWS,6
+2600:1f01:4816::/47,GLOBALACCELERATOR,af-south-1,,AWS,6
 2600:1f01:48f2::/47,GLOBALACCELERATOR,eu-central-1,,AWS,6
 2600:1f01:4808::/47,GLOBALACCELERATOR,eu-south-1,,AWS,6
 2600:1f01:48d0::/47,GLOBALACCELERATOR,eu-north-1,,AWS,6
