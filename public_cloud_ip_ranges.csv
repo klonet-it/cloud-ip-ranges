@@ -6542,6 +6542,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 3.30.98.64/26,AMAZON,us-gov-west-1,,AWS,4
 3.32.190.0/25,AMAZON,us-gov-west-1,,AWS,4
 40.38.204.0/23,AMAZON,us-gov-west-1,,AWS,4
+40.39.198.0/23,AMAZON,us-gov-west-1,,AWS,4
 56.136.0.192/26,AMAZON,us-gov-west-1,,AWS,4
 56.136.121.0/25,AMAZON,us-gov-west-1,,AWS,4
 56.136.224.0/23,AMAZON,us-gov-west-1,,AWS,4
@@ -11234,6 +11235,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 13.196.148.0/22,EFS,ap-northeast-1,,AWS,4
 13.196.152.0/22,EFS,ap-northeast-1,,AWS,4
 13.196.156.0/22,EFS,ap-northeast-1,,AWS,4
+13.197.100.0/22,EFS,ap-northeast-1,,AWS,4
 54.116.148.128/25,EFS,ap-northeast-2,,AWS,4
 54.117.16.0/22,EFS,ap-northeast-2,,AWS,4
 16.208.112.0/22,EFS,ap-northeast-3,,AWS,4
@@ -84108,6 +84110,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 201.79.48.0/20,,CA-ON,,Digital Ocean,4
 201.79.64.0/22,,US-VA,,Digital Ocean,4
 201.79.80.0/20,,DE-HE,,Digital Ocean,4
+201.79.96.0/20,,SG-05,,Digital Ocean,4
 204.48.16.0/20,,US-NJ,,Digital Ocean,4
 206.81.0.0/20,,US-NJ,,Digital Ocean,4
 206.81.16.0/20,,DE-HE,,Digital Ocean,4
@@ -84256,6 +84259,40 @@ prefix,service,region,networkFeatures,platform,ip_version
 84.8.208.0/23,,,['OSN'],Oracle,4
 84.8.210.128/25,,,['OSN'],Oracle,4
 92.4.202.0/23,,,['OSN'],Oracle,4
+51.170.176.0/20,,,['OCI'],Oracle,4
+84.235.160.0/19,,,['OCI'],Oracle,4
+92.5.192.0/19,,,['OCI'],Oracle,4
+92.5.224.0/20,,,['OCI'],Oracle,4
+134.98.128.0/19,,,['OCI'],Oracle,4
+140.204.84.0/23,,,['OCI'],Oracle,4
+141.144.192.0/19,,,['OCI'],Oracle,4
+141.148.224.0/19,,,['OCI'],Oracle,4
+143.47.176.0/20,,,['OCI'],Oracle,4
+144.21.32.0/20,,,['OCI'],Oracle,4
+150.230.20.0/22,,,['OCI'],Oracle,4
+152.70.48.0/20,,,['OCI'],Oracle,4
+158.101.192.0/19,,,['OCI'],Oracle,4
+158.178.144.0/20,,,['OCI'],Oracle,4
+158.180.8.0/21,,,['OCI'],Oracle,4
+168.138.120.0/22,,,['OCI'],Oracle,4
+193.122.16.0/20,,,['OCI'],Oracle,4
+193.123.32.0/19,,,['OCI'],Oracle,4
+62.115.179.220/31,,,['OSN'],Oracle,4
+62.115.179.228/31,,,['OSN'],Oracle,4
+79.72.32.0/22,,,['OSN'],Oracle,4
+79.76.24.0/21,,,['OSN'],Oracle,4
+92.5.255.0/24,,,['OSN'],Oracle,4
+134.70.104.0/22,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
+140.83.44.0/22,,,['OSN'],Oracle,4
+140.91.44.0/23,,,['OSN'],Oracle,4
+140.204.36.128/25,,,['OSN'],Oracle,4
+140.204.38.128/25,,,['OSN'],Oracle,4
+140.204.40.128/25,,,['OSN'],Oracle,4
+158.178.220.0/22,,,['OSN'],Oracle,4
+192.29.192.0/22,,,['OSN'],Oracle,4
+192.29.200.0/21,,,['OSN'],Oracle,4
+213.19.198.156/31,,,['OSN'],Oracle,4
+213.19.198.164/31,,,['OSN'],Oracle,4
 64.110.64.0/19,,,['OCI'],Oracle,4
 129.91.3.0/24,,,['OCI'],Oracle,4
 129.91.4.0/23,,,['OCI'],Oracle,4
@@ -84688,6 +84725,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 130.110.224.0/21,,,['OSN'],Oracle,4
 141.253.212.0/23,,,['OSN'],Oracle,4
 84.8.128.0/20,,,['OCI'],Oracle,4
+84.12.64.0/18,,,['OCI'],Oracle,4
 92.4.128.0/19,,,['OCI'],Oracle,4
 129.151.160.0/19,,,['OCI'],Oracle,4
 145.241.96.0/21,,,['OCI'],Oracle,4
@@ -84701,39 +84739,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 140.91.70.0/23,,,['OSN'],Oracle,4
 140.204.96.128/25,,,['OSN'],Oracle,4
 158.179.196.0/24,,,['OSN'],Oracle,4
-84.235.160.0/19,,,['OCI'],Oracle,4
-92.5.192.0/19,,,['OCI'],Oracle,4
-92.5.224.0/20,,,['OCI'],Oracle,4
-134.98.128.0/19,,,['OCI'],Oracle,4
-140.204.84.0/23,,,['OCI'],Oracle,4
-141.144.192.0/19,,,['OCI'],Oracle,4
-141.148.224.0/19,,,['OCI'],Oracle,4
-143.47.176.0/20,,,['OCI'],Oracle,4
-144.21.32.0/20,,,['OCI'],Oracle,4
-150.230.20.0/22,,,['OCI'],Oracle,4
-152.70.48.0/20,,,['OCI'],Oracle,4
-158.101.192.0/19,,,['OCI'],Oracle,4
-158.178.144.0/20,,,['OCI'],Oracle,4
-158.180.8.0/21,,,['OCI'],Oracle,4
-168.138.120.0/22,,,['OCI'],Oracle,4
-193.122.16.0/20,,,['OCI'],Oracle,4
-193.123.32.0/19,,,['OCI'],Oracle,4
-62.115.179.220/31,,,['OSN'],Oracle,4
-62.115.179.228/31,,,['OSN'],Oracle,4
-79.72.32.0/22,,,['OSN'],Oracle,4
-79.76.24.0/21,,,['OSN'],Oracle,4
-92.5.255.0/24,,,['OSN'],Oracle,4
-134.70.104.0/22,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
-140.83.44.0/22,,,['OSN'],Oracle,4
-140.91.44.0/23,,,['OSN'],Oracle,4
-140.204.36.128/25,,,['OSN'],Oracle,4
-140.204.38.128/25,,,['OSN'],Oracle,4
-140.204.40.128/25,,,['OSN'],Oracle,4
-158.178.220.0/22,,,['OSN'],Oracle,4
-192.29.192.0/22,,,['OSN'],Oracle,4
-192.29.200.0/21,,,['OSN'],Oracle,4
-213.19.198.156/31,,,['OSN'],Oracle,4
-213.19.198.164/31,,,['OSN'],Oracle,4
+84.12.128.0/18,,,['OCI'],Oracle,4
+84.12.224.0/19,,,['OCI'],Oracle,4
 84.235.240.0/20,,,['OCI'],Oracle,4
 139.185.32.0/19,,,['OCI'],Oracle,4
 141.145.144.0/20,,,['OCI'],Oracle,4
@@ -84861,6 +84868,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 146.181.32.0/19,,,['OCI'],Oracle,4
 146.235.240.0/21,,,['OCI'],Oracle,4
 148.116.112.0/22,,,['OCI'],Oracle,4
+155.181.128.0/18,,,['OCI'],Oracle,4
 159.112.128.0/20,,,['OCI'],Oracle,4
 159.112.144.0/21,,,['OCI'],Oracle,4
 161.153.192.0/20,,,['OCI'],Oracle,4
@@ -84963,6 +84971,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 204.216.192.0/20,,,['OSN'],Oracle,4
 207.127.124.0/22,,,['OSN'],Oracle,4
 129.150.32.0/19,,,['OCI'],Oracle,4
+129.221.32.0/19,,,['OCI'],Oracle,4
+129.221.128.0/17,,,['OCI'],Oracle,4
 134.185.80.0/20,,,['OCI'],Oracle,4
 138.2.64.0/19,,,['OCI'],Oracle,4
 138.2.96.0/20,,,['OCI'],Oracle,4
@@ -85185,6 +85195,10 @@ prefix,service,region,networkFeatures,platform,ip_version
 148.116.40.0/22,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
 148.116.44.128/25,,,['OSN'],Oracle,4
 148.116.48.0/23,,,['OSN'],Oracle,4
+149.118.128.0/19,,,['OCI'],Oracle,4
+155.181.8.0/21,,,['OCI'],Oracle,4
+155.181.16.0/20,,,['OCI'],Oracle,4
+129.38.64.0/18,,,['OCI'],Oracle,4
 149.130.160.0/19,,,['OCI'],Oracle,4
 157.137.192.0/19,,,['OCI'],Oracle,4
 157.137.224.0/20,,,['OCI'],Oracle,4
@@ -134078,6 +134092,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:da1c:80f0:7500::/56,EFS,ap-east-2,,AWS,6
 2406:da14:139a:2a00::/56,EFS,ap-northeast-1,,AWS,6
 2406:da14:1964:d500::/56,EFS,ap-northeast-1,,AWS,6
+2406:da14:1e82:a000::/56,EFS,ap-northeast-1,,AWS,6
 2406:da14:dfc:b100::/56,EFS,ap-northeast-1,,AWS,6
 2406:da12:a2e:9b00::/56,EFS,ap-northeast-2,,AWS,6
 2406:da12:ab7:7200::/56,EFS,ap-northeast-2,,AWS,6
