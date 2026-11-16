@@ -116487,6 +116487,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.145.44/32,,CO-ANT,,Icloud,4
 104.28.145.45/32,,HN,,Icloud,4
 104.28.145.46/32,,US-NY,,Icloud,4
+104.28.145.47/32,,IN-AS,,Icloud,4
 104.28.145.48/32,,GY-DE,,Icloud,4
 104.28.145.49/32,,SR,,Icloud,4
 104.28.145.50/32,,GD-03,,Icloud,4
@@ -116521,6 +116522,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.145.79/32,,US-FL,,Icloud,4
 104.28.145.80/32,,US-FL,,Icloud,4
 104.28.145.81/32,,US-FL,,Icloud,4
+104.28.145.82/32,,IN-AS,,Icloud,4
 104.28.145.83/32,,US-GA,,Icloud,4
 104.28.145.84/32,,US-GA,,Icloud,4
 104.28.145.85/32,,US-GA,,Icloud,4
@@ -116537,11 +116539,21 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.145.96/32,,US-GA,,Icloud,4
 104.28.145.97/32,,US-GA,,Icloud,4
 104.28.145.98/32,,US-GA,,Icloud,4
+104.28.145.99/32,,SG,,Icloud,4
+104.28.145.100/32,,SG,,Icloud,4
+104.28.145.101/32,,SG,,Icloud,4
+104.28.145.102/32,,SG,,Icloud,4
+104.28.145.103/32,,SG,,Icloud,4
 104.28.145.104/32,,US-GA,,Icloud,4
 104.28.145.105/32,,US-GA,,Icloud,4
 104.28.145.106/32,,US-GA,,Icloud,4
 104.28.145.107/32,,US-GA,,Icloud,4
 104.28.145.108/32,,US-GA,,Icloud,4
+104.28.145.109/32,,SG,,Icloud,4
+104.28.145.110/32,,SG,,Icloud,4
+104.28.145.111/32,,SG,,Icloud,4
+104.28.145.112/32,,SG,,Icloud,4
+104.28.145.113/32,,SG,,Icloud,4
 104.28.145.114/32,,US-FL,,Icloud,4
 104.28.145.115/32,,US-FL,,Icloud,4
 104.28.145.116/32,,US-TN,,Icloud,4
@@ -116681,6 +116693,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.145.250/32,,US-VA,,Icloud,4
 104.28.145.251/32,,US-VA,,Icloud,4
 104.28.145.252/32,,US-VA,,Icloud,4
+104.28.145.253/32,,US-TX,,Icloud,4
 104.28.145.254/32,,US-DE,,Icloud,4
 104.28.145.255/32,,US-NY,,Icloud,4
 104.28.146.1/32,,US-NY,,Icloud,4
@@ -116723,8 +116736,10 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.146.38/32,,US-MA,,Icloud,4
 104.28.146.39/32,,US-MA,,Icloud,4
 104.28.146.40/32,,GH-AA,,Icloud,4
+104.28.146.41/32,,US-TX,,Icloud,4
 104.28.146.42/32,,SN-DK,,Icloud,4
 104.28.146.43/32,,BF-03,,Icloud,4
+104.28.146.44/32,,US-TX,,Icloud,4
 104.28.146.45/32,,PT-15,,Icloud,4
 104.28.146.46/32,,PT-15,,Icloud,4
 104.28.146.47/32,,PT-15,,Icloud,4
@@ -116733,6 +116748,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.146.50/32,,ES,,Icloud,4
 104.28.146.51/32,,ES,,Icloud,4
 104.28.146.52/32,,ES,,Icloud,4
+104.28.146.53/32,,US-TX,,Icloud,4
+104.28.146.54/32,,US-TX,,Icloud,4
 104.28.146.63/32,,CA-QC,,Icloud,4
 104.28.146.64/32,,CA-QC,,Icloud,4
 104.28.146.65/32,,CA-QC,,Icloud,4
@@ -384545,6 +384562,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a09:bac2:d580::/45,,IN,,Icloud,6
 2a09:bac2:d588::/45,,IN,,Icloud,6
 2a09:bac2:d590::/45,,XK,,Icloud,6
+2a09:bac2:d598::/45,,IN-AS,,Icloud,6
 2a09:bac3::/45,,AD-07,,Icloud,6
 2a09:bac3:8::/45,,AE,,Icloud,6
 2a09:bac3:10::/45,,AE-AZ,,Icloud,6
@@ -391369,6 +391387,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a09:bac3:d580::/45,,IN,,Icloud,6
 2a09:bac3:d588::/45,,IN,,Icloud,6
 2a09:bac3:d590::/45,,XK,,Icloud,6
+2a09:bac3:d598::/45,,IN-AS,,Icloud,6
 2a04:4e41:100::/52,,GH-AA,,Icloud,6
 2a04:4e41:101::/48,,GH,,Icloud,6
 2a04:4e41:120::/52,,NZ-AUK,,Icloud,6
