@@ -2589,6 +2589,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.107.0/32,AMAZON,ap-southeast-2,,AWS,4
 15.230.219.0/24,AMAZON,me-central-1,,AWS,4
 35.50.242.0/24,AMAZON,ap-southeast-2,,AWS,4
+43.195.32.0/20,AMAZON,cn-north-1,,AWS,4
 52.93.33.10/32,AMAZON,ap-southeast-2,,AWS,4
 52.93.84.164/32,AMAZON,us-east-1,,AWS,4
 52.93.133.133/32,AMAZON,eu-south-1,,AWS,4
@@ -3059,6 +3060,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.223.10/31,AMAZON,eu-west-1,,AWS,4
 40.39.0.0/16,AMAZON,us-gov-west-1,,AWS,4
 40.187.0.0/16,AMAZON,ca-central-1,,AWS,4
+43.193.80.0/20,AMAZON,cn-northwest-1,,AWS,4
 51.74.21.0/24,AMAZON,eusc-de-east-1,,AWS,4
 52.93.86.194/32,AMAZON,us-east-1,,AWS,4
 52.93.126.138/32,AMAZON,ap-southeast-2,,AWS,4
@@ -6430,7 +6432,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 18.183.0.0/16,AMAZON,ap-northeast-1,,AWS,4
 46.137.0.0/17,AMAZON,eu-west-1,,AWS,4
 51.48.0.0/15,AMAZON,eu-south-2,,AWS,4
-51.74.192.0/18,AMAZON,GLOBAL,,AWS,4
+51.74.192.0/18,AMAZON,eusc-de-east-1,,AWS,4
 52.93.60.0/24,AMAZON,us-east-1,,AWS,4
 52.93.86.160/32,AMAZON,us-east-1,,AWS,4
 52.93.127.132/32,AMAZON,ap-south-1,,AWS,4
@@ -8426,6 +8428,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 1.178.100.0/24,EC2,us-west-1,,AWS,4
 3.24.0.0/14,EC2,ap-southeast-2,,AWS,4
 35.50.242.0/24,EC2,ap-southeast-2,,AWS,4
+43.195.32.0/20,EC2,cn-north-1,,AWS,4
 64.66.149.0/24,EC2,ca-central-1,,AWS,4
 96.0.131.0/24,EC2,us-east-1,,AWS,4
 151.148.41.0/24,EC2,eu-west-2,,AWS,4
@@ -8604,6 +8607,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 99.77.55.40/32,EC2,eu-south-2,,AWS,4
 3.5.180.0/22,EC2,ap-southeast-5,,AWS,4
 40.39.0.0/16,EC2,us-gov-west-1,,AWS,4
+43.193.80.0/20,EC2,cn-northwest-1,,AWS,4
 75.47.128.0/18,EC2,us-east-1,,AWS,4
 216.244.8.0/24,EC2,us-east-2,,AWS,4
 3.5.204.0/22,EC2,eu-west-3,,AWS,4
@@ -9938,7 +9942,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 108.138.0.0/15,CLOUDFRONT,GLOBAL,,AWS,4
 120.253.241.160/27,CLOUDFRONT,GLOBAL,,AWS,4
 3.173.128.0/18,CLOUDFRONT,GLOBAL,,AWS,4
-51.74.192.0/18,CLOUDFRONT,GLOBAL,,AWS,4
+51.74.192.0/18,CLOUDFRONT,eusc-de-east-1,,AWS,4
 64.252.64.0/18,CLOUDFRONT,GLOBAL,,AWS,4
 51.72.40.128/28,CLOUDFRONT,eusc-de-east-1,,AWS,4
 51.72.40.144/28,CLOUDFRONT,eusc-de-east-1,,AWS,4
@@ -116754,11 +116758,20 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.146.52/32,,ES,,Icloud,4
 104.28.146.53/32,,US-TX,,Icloud,4
 104.28.146.54/32,,US-TX,,Icloud,4
+104.28.146.55/32,,US-TX,,Icloud,4
+104.28.146.56/32,,US-TX,,Icloud,4
+104.28.146.57/32,,US-TX,,Icloud,4
+104.28.146.58/32,,US-TX,,Icloud,4
+104.28.146.59/32,,US-TX,,Icloud,4
+104.28.146.60/32,,US-TX,,Icloud,4
+104.28.146.61/32,,US-TX,,Icloud,4
+104.28.146.62/32,,US-VA,,Icloud,4
 104.28.146.63/32,,CA-QC,,Icloud,4
 104.28.146.64/32,,CA-QC,,Icloud,4
 104.28.146.65/32,,CA-QC,,Icloud,4
 104.28.146.66/32,,CA-QC,,Icloud,4
 104.28.146.67/32,,IS-02,,Icloud,4
+104.28.146.68/32,,US-VA,,Icloud,4
 104.28.146.69/32,,IE,,Icloud,4
 104.28.146.70/32,,IE,,Icloud,4
 104.28.146.71/32,,IE,,Icloud,4
@@ -116775,6 +116788,15 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.146.82/32,,GB-HNS,,Icloud,4
 104.28.146.83/32,,GB-HNS,,Icloud,4
 104.28.146.84/32,,BR-SP,,Icloud,4
+104.28.146.85/32,,US-VA,,Icloud,4
+104.28.146.86/32,,US-VA,,Icloud,4
+104.28.146.87/32,,US-VA,,Icloud,4
+104.28.146.88/32,,US-VA,,Icloud,4
+104.28.146.89/32,,US-VA,,Icloud,4
+104.28.146.90/32,,US-VA,,Icloud,4
+104.28.146.91/32,,US-VA,,Icloud,4
+104.28.146.92/32,,US-VA,,Icloud,4
+104.28.146.93/32,,US-VA,,Icloud,4
 104.28.146.94/32,,GB-HNS,,Icloud,4
 104.28.146.95/32,,GB-HNS,,Icloud,4
 104.28.146.96/32,,GB-HNS,,Icloud,4
@@ -116805,6 +116827,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.146.121/32,,US-FL,,Icloud,4
 104.28.146.122/32,,US-FL,,Icloud,4
 104.28.146.123/32,,US-FL,,Icloud,4
+104.28.146.124/32,,US-VA,,Icloud,4
 104.28.146.125/32,,ZA-WC,,Icloud,4
 104.28.146.126/32,,ZA-WC,,Icloud,4
 104.28.146.127/32,,ZA-WC,,Icloud,4
@@ -116894,9 +116917,11 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.146.211/32,,IL-M,,Icloud,4
 104.28.146.212/32,,IL-M,,Icloud,4
 104.28.146.213/32,,JO,,Icloud,4
+104.28.146.214/32,,DE-HE,,Icloud,4
 104.28.146.215/32,,IQ,,Icloud,4
 104.28.146.216/32,,IQ,,Icloud,4
 104.28.146.217/32,,IQ,,Icloud,4
+104.28.146.218/32,,DE-HE,,Icloud,4
 104.28.146.219/32,,IQ,,Icloud,4
 104.28.146.220/32,,IQ,,Icloud,4
 104.28.146.221/32,,GR-I,,Icloud,4
@@ -116916,6 +116941,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.146.235/32,,MX,,Icloud,4
 104.28.146.236/32,,IT-25,,Icloud,4
 104.28.146.237/32,,IT-25,,Icloud,4
+104.28.146.238/32,,CA-ON,,Icloud,4
+104.28.146.239/32,,CA-ON,,Icloud,4
 104.28.146.240/32,,TR-34,,Icloud,4
 104.28.146.241/32,,TR-34,,Icloud,4
 104.28.146.242/32,,TR-34,,Icloud,4
@@ -116994,6 +117021,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.147.60/32,,SA,,Icloud,4
 104.28.147.61/32,,SA,,Icloud,4
 104.28.147.62/32,,SA,,Icloud,4
+104.28.147.63/32,,CA-ON,,Icloud,4
 104.28.147.64/32,,SA,,Icloud,4
 104.28.147.65/32,,QA-DA,,Icloud,4
 104.28.147.66/32,,AE-DU,,Icloud,4
@@ -117003,6 +117031,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.147.70/32,,IQ-BA,,Icloud,4
 104.28.147.71/32,,KW,,Icloud,4
 104.28.147.72/32,,KW,,Icloud,4
+104.28.147.73/32,,CA-ON,,Icloud,4
 104.28.147.74/32,,OM,,Icloud,4
 104.28.147.75/32,,PK,,Icloud,4
 104.28.147.76/32,,PK,,Icloud,4
@@ -127733,7 +127762,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a05:d05a:5000::/40,AMAZON,il-central-1,,AWS,6
 2a05:d069:8000::/40,AMAZON,eu-west-1,,AWS,6
 2a05:d076:4800::/40,AMAZON,eu-central-1,,AWS,6
-2001:3fc6:20::/43,AMAZON,GLOBAL,,AWS,6
+2001:3fc6:20::/43,AMAZON,eusc-de-east-1,,AWS,6
 2400:7fc0:6000::/40,AMAZON,cn-north-1,,AWS,6
 2406:da36:8800::/40,AMAZON,ap-southeast-1,,AWS,6
 2406:da60:2800::/40,AMAZON,ap-southeast-6,,AWS,6
@@ -128311,6 +128340,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:1116::/48,AMAZON,eu-west-3,,AWS,6
 2600:f0f0:1124::/48,AMAZON,us-west-2,,AWS,6
 2600:f0f2:7148::/48,AMAZON,us-west-2,,AWS,6
+2600:f0fb:c806::/48,AMAZON,eu-central-1,,AWS,6
 2606:7b40:10ff:d000::/56,AMAZON,us-west-2,,AWS,6
 2606:7b40:10ff:ff00::/56,AMAZON,us-west-2,,AWS,6
 2a05:d031:1000::/40,AMAZON,eu-south-2,,AWS,6
@@ -128798,6 +128828,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:22::/47,AMAZON,us-east-1,,AWS,6
 2600:f0f0:c01:600::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:c145::/48,AMAZON,ap-southeast-2,,AWS,6
+2600:f0fb:c805::/48,AMAZON,us-east-1,,AWS,6
 2a05:d05b:1000::/40,AMAZON,eu-south-2,,AWS,6
 2400:7fc0::/40,AMAZON,cn-north-1,,AWS,6
 2406:daff:a000::/40,AMAZON,ap-south-1,,AWS,6
@@ -132096,6 +132127,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:1116::/48,EC2,eu-west-3,,AWS,6
 2600:f0f0:1124::/48,EC2,us-west-2,,AWS,6
 2600:f0f2:7148::/48,EC2,us-west-2,,AWS,6
+2600:f0fb:c806::/48,EC2,eu-central-1,,AWS,6
 2606:7b40:10ff:d000::/56,EC2,us-west-2,,AWS,6
 2606:7b40:10ff:ff00::/56,EC2,us-west-2,,AWS,6
 2a05:d031:1000::/40,EC2,eu-south-2,,AWS,6
@@ -132500,6 +132532,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:22::/47,EC2,us-east-1,,AWS,6
 2600:f0f0:c01:600::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:c145::/48,EC2,ap-southeast-2,,AWS,6
+2600:f0fb:c805::/48,EC2,us-east-1,,AWS,6
 2a05:d05b:1000::/40,EC2,eu-south-2,,AWS,6
 2400:7fc0::/40,EC2,cn-north-1,,AWS,6
 2406:daff:a000::/40,EC2,ap-south-1,,AWS,6
@@ -133069,7 +133102,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:9000:1000::/36,CLOUDFRONT,GLOBAL,,AWS,6
 2600:9000:2000::/36,CLOUDFRONT,GLOBAL,,AWS,6
 2400:7fc0:500::/40,CLOUDFRONT,GLOBAL,,AWS,6
-2001:3fc6:20::/43,CLOUDFRONT,GLOBAL,,AWS,6
+2001:3fc6:20::/43,CLOUDFRONT,eusc-de-east-1,,AWS,6
 2600:f0f0:9::/48,CLOUDFRONT,GLOBAL,,AWS,6
 2600:9000:4000::/36,CLOUDFRONT,GLOBAL,,AWS,6
 2600:9000:fff::/48,CLOUDFRONT,GLOBAL,,AWS,6
@@ -133154,7 +133187,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:4100::/40,CHIME_MEETINGS,GLOBAL,,AWS,6
 2600:9000:1000::/36,CLOUDFRONT_ORIGIN_FACING,GLOBAL,,AWS,6
 2600:9000:5200::/40,CLOUDFRONT_ORIGIN_FACING,GLOBAL,,AWS,6
-2001:3fc6:3c::/47,CLOUDFRONT_ORIGIN_FACING,GLOBAL,,AWS,6
 2600:9000:6000::/36,CLOUDFRONT_ORIGIN_FACING,GLOBAL,,AWS,6
 2001:3fc6:4::/48,CLOUDFRONT_ORIGIN_FACING,eusc-de-east-1,,AWS,6
 2001:3fc6:5::/48,CLOUDFRONT_ORIGIN_FACING,eusc-de-east-1,,AWS,6
