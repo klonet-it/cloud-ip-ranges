@@ -156088,6 +156088,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:3c0f:57::/48,,FR-13,,Linode,6
 2600:3c12:f00::/40,,MX-QUE,,Linode,6
 2600:3c0f:58::/48,,MX-QUE,,Linode,6
+2600:3c20::/32,,US-IL,,Linode,6
+2600:3c0f:62::/48,,US-IL,,Linode,6
 2a02:26f7:b000:4000::/64,,US-AK,,Icloud,6
 2a02:26f7:b001:4000::/64,,US-AK,,Icloud,6
 2a02:26f7:b002:4000::/64,,US-AK,,Icloud,6
