@@ -4774,6 +4774,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.193.32.0/19,AMAZON,GLOBAL,,AWS,4
 15.230.15.106/31,AMAZON,eu-central-1,,AWS,4
 15.230.15.186/31,AMAZON,eu-central-1,,AWS,4
+15.248.208.128/26,AMAZON,us-west-2,,AWS,4
 18.34.48.0/20,AMAZON,us-west-2,,AWS,4
 18.34.232.0/21,AMAZON,us-east-1,,AWS,4
 18.140.0.0/15,AMAZON,ap-southeast-1,,AWS,4
