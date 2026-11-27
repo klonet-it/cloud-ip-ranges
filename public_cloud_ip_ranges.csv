@@ -83621,6 +83621,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 89.168.64.0/18,,,['OCI'],Oracle,4
 92.5.0.0/17,,,['OCI'],Oracle,4
 92.5.128.0/18,,,['OCI'],Oracle,4
+92.6.0.0/16,,,['OCI'],Oracle,4
 129.159.0.0/20,,,['OCI'],Oracle,4
 129.159.24.0/21,,,['OCI'],Oracle,4
 129.159.192.0/19,,,['OCI'],Oracle,4
@@ -84072,6 +84073,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 161.33.254.0/24,,,['OSN'],Oracle,4
 192.29.208.0/22,,,['OSN'],Oracle,4
 192.29.216.0/21,,,['OSN'],Oracle,4
+129.203.128.0/17,,,['OCI'],Oracle,4
 131.186.32.0/20,,,['OCI'],Oracle,4
 131.186.56.0/21,,,['OCI'],Oracle,4
 132.145.112.0/20,,,['OCI'],Oracle,4
@@ -84287,6 +84289,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 140.91.100.0/23,,,['OSN'],Oracle,4
 140.204.150.128/25,,,['OSN'],Oracle,4
 192.22.0.0/19,,,['OCI'],Oracle,4
+107.186.224.0/19,,,['OSN'],Oracle,4
 192.22.32.0/26,,,['OSN'],Oracle,4
 192.22.32.128/25,,,['OSN'],Oracle,4
 192.22.33.192/26,,,['OSN'],Oracle,4
